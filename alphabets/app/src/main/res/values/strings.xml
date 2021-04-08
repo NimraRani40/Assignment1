@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alphabets</string>
+    <string name="button">Button</string>
+    <string name="learn_alphabets">Learn Alphabets</string>
+    <string name="get_started">Get Started</string>
+
+</resources>
